@@ -1,0 +1,3 @@
+system.c:22:6:initSystem	8	static
+system.c:34:6:taskSystem_InOperation	8	static
+system.c:47:6:taskSystem_StateMachine	8	static

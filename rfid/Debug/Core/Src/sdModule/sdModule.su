@@ -1,0 +1,8 @@
+sdModule.c:57:6:SD_Init	8	static
+sdModule.c:65:6:SD_Handler	16	static
+sdModule.c:216:6:SD_writeLog	16	static
+sdModule.c:250:6:SD_getDataBase	4	static
+sdModule.c:255:10:SD_IDString2Number	24	static
+sdModule.c:269:6:SD_DBFile2Personal	72	static
+sdModule.c:358:6:SD_writeDB	4	static
+sdModule.c:364:6:SD_Personal2DBFile	24	static

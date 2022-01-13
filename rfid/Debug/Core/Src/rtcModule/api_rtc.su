@@ -1,0 +1,6 @@
+api_rtc.c:34:6:RTC_Init	8	static
+api_rtc.c:48:6:RTC_SET	24	static
+api_rtc.c:61:6:RTC_getTime	16	static
+api_rtc.c:73:6:RTC_getDate	16	static
+api_rtc.c:85:6:RTC_getDateWeekday	24	static
+api_rtc.c:93:6:RTC_GetTimeAndDate	8	static

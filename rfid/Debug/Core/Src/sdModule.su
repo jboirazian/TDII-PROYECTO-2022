@@ -1,0 +1,2 @@
+sdModule.c:18:6:SD_writeLog	48	static
+sdModule.c:63:6:SD_getDataBase	4	static

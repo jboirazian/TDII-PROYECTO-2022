@@ -1,0 +1,4 @@
+stateMachine.c:58:6:stateMachineInit	4	static
+stateMachine.c:64:6:stateMachineSystem	8	static
+stateMachine.c:101:6:stateMachineInOperation	8	static
+stateMachine.c:165:6:stateMachineInConfiguration	72	static

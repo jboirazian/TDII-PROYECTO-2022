@@ -1,0 +1,9 @@
+personal.c:38:6:DATABASE_Init	8	static
+personal.c:45:6:DATABASE_load	8	static
+personal.c:51:6:DATABASE_clear	16	static
+personal.c:75:6:PERSONAL_load	32	static
+personal.c:95:6:PERSONAL_delete	32	static
+personal.c:124:10:DATABASE_check	24	static
+personal.c:179:10:DATABASE_getPersonalQuantity	4	static
+personal.c:184:10:PERSONAL_getID	4	static
+personal.c:189:9:PERSONAL_getDetectedMovement	4	static

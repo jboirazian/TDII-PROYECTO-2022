@@ -1,0 +1,9 @@
+rfidModule.c:22:6:HAL_UART_RxCpltCallback	16	static
+rfidModule.c:29:6:RFID_Handler	24	static
+rfidModule.c:69:9:RFID_check	4	static
+rfidModule.c:74:6:RFID_clear	4	static
+rfidModule.c:79:9:RFID_verifyRxBuffer	8	static
+rfidModule.c:85:9:RFID_verifyStopByte	4	static
+rfidModule.c:91:9:RFID_verifyChecksum	16	static
+rfidModule.c:97:9:RFID_doChecksum	16	static
+rfidModule.c:125:9:ascii2hexa	16	static

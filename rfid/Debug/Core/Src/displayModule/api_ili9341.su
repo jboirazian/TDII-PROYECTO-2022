@@ -1,0 +1,11 @@
+api_ili9341.c:62:6:ILI9341_writeString	24	static
+api_ili9341.c:70:6:ILI9341_writeStringCentered	24	static
+api_ili9341.c:76:6:ILI9341_display2LineText	40	dynamic
+api_ili9341.c:95:6:ILI9341_drawBorder	48	static
+api_ili9341.c:103:6:ILI9341_displayConfigurationAnimation	8	static
+api_ili9341.c:138:6:ILI9341_displayTime	32	static
+api_ili9341.c:170:6:ILI9341_displayDate	32	static
+api_ili9341.c:203:6:ILI9341_displayWarning	16	static
+api_ili9341.c:249:6:ILI9341_Init	8	static
+api_ili9341.c:272:6:ILI9341_LoadText	16	static
+api_ili9341.c:282:6:ILI9341_Handler	8	static
