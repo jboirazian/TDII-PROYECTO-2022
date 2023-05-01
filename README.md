@@ -1,6 +1,12 @@
 ## TDII-PROYECTO-2022
 ## CONTROL RFID DE ACCESO BASADO EN EL NUCLEOF401RE SOBRE FREERTOS
 
+### Integrantes:
++ [Kevin Chon](https://www.linkedin.com/in/kevin-chon-1b22271a2)
++ [Juan Boirazian](https://www.linkedin.com/in/juan-boirazian)
+
+
+
 
 ![Screenshot from 2023-04-20 14-57-53](https://user-images.githubusercontent.com/21143405/233449455-60c80940-4a41-4b48-84ef-46b51a6a944e.png)
 
